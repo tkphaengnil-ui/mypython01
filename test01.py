@@ -1,3 +1,7 @@
+# Single line comment
 print("hello...")
-print("hi...")
-print("hey...")
+
+# mutiple line comment 
+"""asdasdsadsadasdasdasd
+asdasdasdasdasdsadasd
+asdasdasdadsadadad"""
